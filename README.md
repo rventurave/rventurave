@@ -27,7 +27,7 @@
 
 <br>
 
-## Programming Languages
+### Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## Web Development
+### Web Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-## Data Science & Machine Learning
+### Data Science & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -55,21 +55,21 @@
   <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
-## Computer Graphics
+### Computer Graphics
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white"/>
 </p>
 
-## Databases & Data
+### Databases & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
-## Development Tools
+### Development Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -79,14 +79,14 @@
   <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=uml&logoColor=white"/>
 </p>
 
-## Operating Systems
+### Operating Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-## Featured Projects
+##Featured Projects
 
 ### Machine Learning — Gallstone Disease Prediction
 
@@ -175,33 +175,6 @@ Computer Networks •
 Systems Programming
 
 </p>
-
-## My GitHub
-
-<p align="center">
-  <a href="https://github.com/rventurave">
-    <img src="https://github-readme-stats.vercel.app/api?username=rventurave&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  </a>
-  <a href="https://github.com/rventurave">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rventurave&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rventurave&theme=tokyonight&hide_border=true" />
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rventurave&theme=tokyo-night&hide_border=true" />
-</p>
-
-## GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rventurave&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
 
 ## Connect With Me
 
