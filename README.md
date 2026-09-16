@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronald Ventura</h1>
+<h1 align="center">Hi, I'm Ronald Ventura</h1>
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=100&lines=Computer+Science+Student;Software+Engineering+Enthusiast;C%2B%2B+%7C+Python+%7C+JavaScript;Machine+Learning+%7C+Computer+Graphics;Always+Learning+Something+New" alt="Typing SVG"/>
@@ -8,9 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=rventurave&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-⸻
-
-👨‍💻 About Me
+## About Me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
@@ -29,21 +27,16 @@
 
 <br>
 
-⸻
-
-🛠️ Technologies & Tools
-
-💻 Programming Languages
+## Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-🌐 Web Development
+## Web Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -53,34 +46,30 @@
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-🤖 Data Science & Machine Learning
+## Data Science & Machine Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-🎨 Computer Graphics
+## Computer Graphics
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
 </p>
 
-🗄️ Databases & Data
+## Databases & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
-🔧 Development Tools
+## Development Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -90,19 +79,16 @@
   <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=uml&logoColor=white"/>
 </p>
 
-🐧 Operating Systems
+## Operating Systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-⸻
+## Featured Projects
 
-🚀 Featured Projects
-
-🧠 Machine Learning — Gallstone Disease Prediction
+### Machine Learning — Gallstone Disease Prediction
 
 Machine Learning project focused on estimating gallstone disease using bioimpedance and laboratory data.
 
@@ -124,9 +110,7 @@ Main Concepts:
 * SHAP explainability
 * Data visualization
 
-⸻
-
-🎨 Computer Graphics — 2D & 3D Editors
+## Computer Graphics — 2D & 3D Editors
 
 Development of computer graphics applications using C++, OpenGL and SFML, working with 2D and 3D graphical environments.
 
@@ -142,9 +126,7 @@ Concepts:
 * Interactive graphical applications
 * 2D/3D editors
 
-⸻
-
-💾 Buffer Manager — Systems Programming
+## Buffer Manager — Systems Programming
 
 Implementation of system-level components in C++ focused on buffer management and replacement strategies.
 
@@ -160,9 +142,7 @@ Concepts:
 * Memory management
 * Systems programming
 
-⸻
-
-🌐 Web Development
+## Web Development
 
 Development of web applications using modern web technologies.
 
@@ -177,9 +157,9 @@ Concepts:
 * JSON data
 * Frontend architecture
 
-⸻
 
-📚 Areas of Interest
+
+## Areas of Interest
 
 <p align="center">
 
@@ -196,9 +176,7 @@ Systems Programming
 
 </p>
 
-⸻
-
-📈 GitHub Statistics
+## My GitHub
 
 <p align="center">
   <a href="https://github.com/rventurave">
@@ -212,35 +190,20 @@ Systems Programming
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rventurave&theme=tokyonight&hide_border=true" />
 </p>
 
-⸻
-
-📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rventurave&theme=tokyo-night&hide_border=true" />
 </p>
 
-⸻
-
-🏆 GitHub Profile Trophies
+## GitHub Profile Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rventurave&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
-⸻
 
-📂 My GitHub
-
-<p align="center">
-  <a href="https://github.com/rventurave">
-    <img src="https://img.shields.io/badge/Visit%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-⸻
-
-🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:rventurave@gmail.com">
@@ -254,14 +217,6 @@ Systems Programming
   </a>
 </p>
 
-⸻
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" />
-</p>
-<h3 align="center">
-  ✨ Keep learning. Keep building. Keep improving. ✨
-</h3>
 <p align="center">
   <i>Thanks for visiting my profile!</i> 🚀
 </p>
